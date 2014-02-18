@@ -26,11 +26,23 @@ module.exports = function (grunt) {
     },
 
       protractor: {
-
+//          configFile: 'test/protractorConf.js',
           options: {
-            configFile: 'test/protractorConf.js'
-
+              configFile: "test/protractorConf.js", // Default config file
+              //
+              //
+              keepAlive: true, // If false, the grunt process stops when the test fails.
+              noColor: false, // If true, protractor will not use colors in its output.
+              args: {
+                  //baseUrl: 'http://localhost:9000'
+                  seleniumAddress: 'http://localhost:4444/wd/hub'
+              }
+          },
+          myTarget: {
+              options: {
+              }
           }
+
       },
 
     // Watches files for changes and runs tasks based on the changed files
