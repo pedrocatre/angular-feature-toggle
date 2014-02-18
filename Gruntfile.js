@@ -25,6 +25,14 @@ module.exports = function (grunt) {
       dist: 'dist'
     },
 
+      protractor: {
+
+          options: {
+            configFile: 'test/protractorConf.js'
+
+          }
+      },
+
     // Watches files for changes and runs tasks based on the changed files
     watch: {
       js: {
@@ -403,4 +411,6 @@ module.exports = function (grunt) {
     'test',
     'build'
   ]);
+
+    grunt.loadNpmTasks('grunt-protractor-runner');
 };
