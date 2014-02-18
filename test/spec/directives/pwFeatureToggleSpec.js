@@ -38,7 +38,6 @@ describe('Directive: pwFeatureToggle', function () {
 
         $httpBackend.flush();
         featureToggle = _featureToggle_;
-        //spyOn(featureToggle, 'hasBeenLoaded').andReturn(true);
     }));
 
     it('should remove a disabled feature', function () {
