@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b7a75006-7892-4dd6-9a67-c217699c9aaa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/protractorConf.js" afterPath="$PROJECT_DIR$/test/protractorConf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-feature-toggle.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,19 +35,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="indexSpec.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="indexSpec.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/e2e/indexSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="64" selection-start="272" selection-end="272" vertical-scroll-proportion="0.13108614" vertical-offset="0" max-vertical-offset="801">
+            <state line="7" column="64" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="64" selection-start="1041" selection-end="1041" vertical-scroll-proportion="-15.0" vertical-offset="120" max-vertical-offset="6510">
+            <state line="40" column="13" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.61935484" vertical-offset="120" max-vertical-offset="6510">
               <folding />
             </state>
           </provider>
@@ -59,7 +56,7 @@
       <file leaf-file-name="protractorConf.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/protractorConf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="28" selection-start="126" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+            <state line="5" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
               <folding />
             </state>
           </provider>
@@ -138,9 +135,9 @@
         <option value="$PROJECT_DIR$/coverage/Chrome 32.0.1700 (Mac OS X 10.9.1)/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/test/spec/directives/pwFeatureToggleSpec.js" />
+        <option value="$PROJECT_DIR$/test/e2e/indexSpec.js" />
         <option value="$PROJECT_DIR$/test/protractorConf.js" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
-        <option value="$PROJECT_DIR$/test/e2e/indexSpec.js" />
       </list>
     </option>
   </component>
@@ -577,23 +574,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+    <entry file="file://$PROJECT_DIR$/test/e2e/indexSpec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="64" selection-start="1041" selection-end="1041" vertical-scroll-proportion="-15.0" vertical-offset="120" max-vertical-offset="6510">
+        <state line="7" column="64" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/protractorConf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="28" selection-start="126" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+        <state line="5" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/e2e/indexSpec.js">
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="64" selection-start="272" selection-end="272" vertical-scroll-proportion="0.13108614" vertical-offset="0" max-vertical-offset="801">
+        <state line="40" column="13" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.61935484" vertical-offset="120" max-vertical-offset="6510">
           <folding />
         </state>
       </provider>

@@ -38,7 +38,7 @@ module.exports = function (grunt) {
                   seleniumAddress: 'http://localhost:4444/wd/hub'
               }
           },
-          myTarget: {
+          e2e: {
               options: {
               }
           }
