@@ -1,7 +1,7 @@
 [
 	{
 		"key": "feature1",
-		"enabled": true
+		"enabled": false
 	},
 	{
 		"key": "feature2",

@@ -7,13 +7,13 @@ angular.module('pwFeatureToggle')
 		link: function postLink($scope, element, attrs) {
 			element.hide();
 			$scope.$watch(function () {
-				return featureToggle.hasBeenLoaded();
+                return featureToggle.hasBeenLoaded();
 			}, function(hasBeenLoaded) {
-				if (hasBeenLoaded) {
+                if (hasBeenLoaded) {
 					if (featureToggle.isEnabled(attrs.pwFeatureToggle) === false) {
-						element.remove();
+                        element.remove();
 					} else {
-						element.show();
+                        element.show();
 					}
 				}
 			});
