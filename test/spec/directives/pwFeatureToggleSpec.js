@@ -5,8 +5,7 @@ describe('Directive: pwFeatureToggle', function () {
     // load the app module
     beforeEach(module('pwFeatureToggle'));
 
-    var element,
-        scope,
+    var scope,
         $httpBackend,
         $compile,
         featureToggle;
@@ -39,6 +38,11 @@ describe('Directive: pwFeatureToggle', function () {
         $httpBackend.flush();
         featureToggle = _featureToggle_;
     }));
+
+    afterEach(function() {
+        $httpBackend.verifyNoOutstandingExpectation();
+        $httpBackend.verifyNoOutstandingRequest();
+    });
 
     it('should remove a disabled feature', function () {
         // Compile a piece of HTML containing the directive

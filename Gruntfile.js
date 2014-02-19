@@ -90,9 +90,17 @@ module.exports = function (grunt) {
                     ]
                 }
             },
+            once: {
+                options: {
+                    base: [
+                        '.tmp',
+                        '<%= yeoman.app %>'
+                    ]
+                }
+            },
             test: {
                 options: {
-                    port: 9001,
+                    port: 9002,
                     base: [
                         '.tmp',
                         'test',
@@ -433,12 +441,22 @@ module.exports = function (grunt) {
         'karma:unitSingleRun'
     ]);
 
+    grunt.registerTask('start-http-server', [
+        'clean:server',
+        'bower-install',
+        'concurrent:server',
+        'autoprefixer',
+        'connect:once'
+    ]);
+
     grunt.registerTask('e2e-test', [
         'protractor:e2e'
     ]);
 
     grunt.registerTask('test', [
+        'newer:jshint',
         'single-run-unit-test',
+        'start-http-server',
         'e2e-test'
     ]);
 

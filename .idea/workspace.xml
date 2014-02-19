@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7a75006-7892-4dd6-9a67-c217699c9aaa" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example-spec.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.jshintrc" afterPath="$PROJECT_DIR$/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/.jshintrc" afterPath="$PROJECT_DIR$/test/.jshintrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/spec/services/featureToggleSpec.js" afterPath="$PROJECT_DIR$/test/spec/services/featureToggleSpec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/spec/directives/pwFeatureToggleSpec.js" afterPath="$PROJECT_DIR$/test/spec/directives/pwFeatureToggleSpec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-feature-toggle.iws" />
@@ -29,26 +34,56 @@
       <file leaf-file-name="pwFeatureToggleSpec.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/spec/directives/pwFeatureToggleSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="23" selection-start="1534" selection-end="1534" vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="1020">
+            <state line="41" column="4" selection-start="1005" selection-end="1141" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="indexSpec.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".jshintrc" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/.jshintrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="4" selection-start="151" selection-end="151" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="630">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indexSpec.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/e2e/indexSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="64" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+            <state line="7" column="64" selection-start="272" selection-end="272" vertical-scroll-proportion="0.13852243" vertical-offset="0" max-vertical-offset="758">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gruntfile.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="439" column="32" selection-start="12823" selection-end="12823" vertical-scroll-proportion="0.92258066" vertical-offset="5870" max-vertical-offset="6780">
+            <state line="448" column="21" selection-start="13095" selection-end="13095" vertical-scroll-proportion="-15.461538" vertical-offset="6318" max-vertical-offset="7050">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="930">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".jshintrc" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.jshintrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="17" selection-start="466" selection-end="466" vertical-scroll-proportion="-7.8" vertical-offset="0" max-vertical-offset="600">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1392741566000" expanded="true" signature="447:568" placeholder="{&quot;node&quot;: true...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,35 +106,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coverage/Chrome 32.0.1700 (Mac OS X 10.9.1)/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="9" selection-start="458" selection-end="458" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="5670">
-              <folding>
-                <element signature="n#style#0;n#span#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#td#1;n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#td#1;n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="9" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="featureToggleSpec.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/spec/services/featureToggleSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="62" selection-start="2086" selection-end="2086" vertical-scroll-proportion="0.0" vertical-offset="339" max-vertical-offset="1140">
+            <state line="13" column="28" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1215">
               <folding />
             </state>
           </provider>
@@ -131,21 +141,23 @@
         <option value="$PROJECT_DIR$/protractorConf.js" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/karma.conf.js" />
-        <option value="$PROJECT_DIR$/test/spec/services/featureToggleSpec.js" />
         <option value="$PROJECT_DIR$/coverage/Chrome 32.0.1700 (Mac OS X 10.9.1)/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/test/e2e/indexSpec.js" />
         <option value="$PROJECT_DIR$/test/protractorConf.js" />
+        <option value="$PROJECT_DIR$/.jshintrc" />
+        <option value="$PROJECT_DIR$/test/.jshintrc" />
         <option value="$PROJECT_DIR$/test/spec/directives/pwFeatureToggleSpec.js" />
+        <option value="$PROJECT_DIR$/test/spec/services/featureToggleSpec.js" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/test/e2e/indexSpec.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="102" />
-    <option name="y" value="22" />
+    <option name="x" value="46" />
+    <option name="y" value="51" />
     <option name="width" value="1753" />
-    <option name="height" value="921" />
+    <option name="height" value="878" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -449,11 +461,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="102" y="22" width="1753" height="921" extended-state="0" />
+    <frame x="46" y="51" width="1753" height="878" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293124" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19630484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -488,13 +500,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/example-spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="817" selection-end="817" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="801">
@@ -521,27 +526,13 @@
     <entry file="file://$PROJECT_DIR$/coverage/Chrome 32.0.1700 (Mac OS X 10.9.1)/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="9" selection-start="458" selection-end="458" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="5670">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#td#1;n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#td#1;n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="9" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/spec/services/featureToggleSpec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="62" selection-start="2086" selection-end="2086" vertical-scroll-proportion="0.0" vertical-offset="339" max-vertical-offset="1140">
           <folding />
         </state>
       </provider>
@@ -567,13 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/e2e/indexSpec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="64" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/protractorConf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
@@ -581,16 +565,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="801">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="801">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="17" selection-start="466" selection-end="466" vertical-scroll-proportion="-7.8" vertical-offset="0" max-vertical-offset="600">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1392741566000" expanded="true" signature="447:568" placeholder="{&quot;node&quot;: true...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="151" selection-end="151" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/spec/directives/pwFeatureToggleSpec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="23" selection-start="1534" selection-end="1534" vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="1020">
+        <state line="41" column="4" selection-start="1005" selection-end="1141" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/services/featureToggleSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="28" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1215">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="439" column="32" selection-start="12823" selection-end="12823" vertical-scroll-proportion="0.92258066" vertical-offset="5870" max-vertical-offset="6780">
+        <state line="448" column="21" selection-start="13095" selection-end="13095" vertical-scroll-proportion="-15.461538" vertical-offset="6318" max-vertical-offset="7050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/e2e/indexSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="64" selection-start="272" selection-end="272" vertical-scroll-proportion="0.13852243" vertical-offset="0" max-vertical-offset="758">
           <folding />
         </state>
       </provider>
