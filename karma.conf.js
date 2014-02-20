@@ -55,11 +55,16 @@ module.exports = function(config) {
             'app/scripts/**/*.js': 'coverage'
         },
 
-        reporters: ['progress', 'coverage'],
+        reporters: ['progress', 'coverage', 'junit'],
 
         coverageReporter: {
             type: 'html',
             dir: 'coverage'
+        },
+
+        junitReporter: {
+            outputFile: 'test/test-result.xml',
+            suite: ''
         }
 
 
