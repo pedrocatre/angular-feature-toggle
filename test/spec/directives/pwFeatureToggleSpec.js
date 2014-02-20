@@ -60,7 +60,7 @@ describe('Directive: pwFeatureToggle', function () {
         $compile(container)(scope);
         // fire all the watches
         scope.$digest();
-        expect(container.children().length).toBe(4);
+        expect(container.children().length).toBe(1);
     });
 });
 

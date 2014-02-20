@@ -46,7 +46,8 @@
     "istanbul": "~0.2.4",
     "karma-coverage": "~0.2.0",
     "selenium-chromedriver": "0.0.1",
-    "karma-junit-reporter": "~0.2.1"
+    "karma-junit-reporter": "~0.2.1",
+    "jasmine-reporters": "~0.2.1"
   },
   "engines": {
     "node": ">=0.8.0"
