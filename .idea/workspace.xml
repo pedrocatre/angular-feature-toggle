@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b7a75006-7892-4dd6-9a67-c217699c9aaa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/karma.conf.js" afterPath="$PROJECT_DIR$/karma.conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-feature-toggle.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,19 +61,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="karma.conf.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="karma.conf.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/karma.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="25" selection-start="1762" selection-end="1762" vertical-scroll-proportion="0.0" vertical-offset="521" max-vertical-offset="1185">
+            <state line="65" column="42" selection-start="1870" selection-end="1870" vertical-scroll-proportion="0.5490982" vertical-offset="686" max-vertical-offset="1185">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="unit-test-result.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="unit-test-result.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test-result/unit-test-result.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="499">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
@@ -83,11 +82,8 @@
       <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="0" selection-end="689" vertical-scroll-proportion="-0.0" vertical-offset="30" max-vertical-offset="945">
-              <folding>
-                <marker date="1392905680000" expanded="true" signature="36:1732" placeholder="{&quot;name&quot;: &quot;angularfeaturetoggle&quot;...}" />
-                <marker date="1392905680000" expanded="true" signature="147:1648" placeholder="{&quot;grunt&quot;: &quot;~0.4.1&quot;...}" />
-              </folding>
+            <state line="24" column="17" selection-start="799" selection-end="799" vertical-scroll-proportion="2.72" vertical-offset="496" max-vertical-offset="945">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -520,16 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="0" selection-end="689" vertical-scroll-proportion="-0.0" vertical-offset="30" max-vertical-offset="945">
-          <folding>
-            <marker date="1392905680000" expanded="true" signature="36:1732" placeholder="{&quot;name&quot;: &quot;angularfeaturetoggle&quot;...}" />
-            <marker date="1392905680000" expanded="true" signature="147:1648" placeholder="{&quot;grunt&quot;: &quot;~0.4.1&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/protractor/bin/webdriver-manager">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4185">
@@ -544,9 +530,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/karma.conf.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="25" selection-start="1762" selection-end="1762" vertical-scroll-proportion="0.0" vertical-offset="521" max-vertical-offset="1185">
+        <state line="24" column="17" selection-start="799" selection-end="799" vertical-scroll-proportion="2.72" vertical-offset="496" max-vertical-offset="945">
           <folding />
         </state>
       </provider>
@@ -554,6 +540,13 @@
     <entry file="file://$PROJECT_DIR$/test/test-result/unit-test-result.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="499">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="42" selection-start="1870" selection-end="1870" vertical-scroll-proportion="0.5490982" vertical-offset="686" max-vertical-offset="1185">
           <folding />
         </state>
       </provider>
