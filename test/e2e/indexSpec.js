@@ -5,7 +5,7 @@ describe('hello protractor', function() {
 
         it('should display the correct title', function() {
             ptor.get('/#');
-            expect(ptor.getTitle()).toBe('angular-feature-togglea');
+            expect(ptor.getTitle()).toBe('angular-feature-toggle');
 
         });
     });
